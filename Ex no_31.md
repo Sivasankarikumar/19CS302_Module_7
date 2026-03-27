@@ -13,7 +13,7 @@ To write a C program to find the smallest among three numbers using Structure.
 7. End  
 
 ## Program:
-```c program
+```c program 
 #include<stdio.h> 
 int main()
 {
